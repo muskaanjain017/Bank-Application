@@ -78,5 +78,6 @@ public class Main {
         else{
             System.out.println("You entered wrong choice");
         }
+        System.out.println("Thank you!");
     }
 }
